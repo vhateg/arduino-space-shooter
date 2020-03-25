@@ -1,4 +1,4 @@
-# arduino_space_shooter
+# Arduino Space Shooter
 ### Introduction
 Interesting game written for use with an Arduino and a 20x4 LCD<br>
 This game was inspired by the Nokia Space Impact game and games such as Subway Surfers, but is less complex because of limitations in how sprites are handled by the LCD controller<br>
@@ -24,7 +24,7 @@ There are certain thing I want to modify/ improve:<br>
 - [ ] Different enemies that also change position on screen.
 - [ ] Different random speeds for asteroids/ enemies/ items.
 - [ ] New items such as different guns, portals, and other interesting things.
-- [ ] Remove the endless nature of the game and add different (selectable!) levels.
+- [ ] Remove the endless nature of the game and add different (selectable!) levels with different themes.
 - [ ] Add bosses at the end of each stage.<br>
 Keep in mind that the code itself can be changed to make different games
 ## How to make it
